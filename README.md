@@ -1,1 +1,2 @@
 # testdocs
+Add a wiki
